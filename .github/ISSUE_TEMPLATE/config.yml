@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Email development@otapp.net
+    url: mailto:development@otapp.net
+    about: Route issue-related contact and inquiries to development@otapp.net.
