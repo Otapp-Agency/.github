@@ -1,3 +1,5 @@
+<img align="right" width="140" src="assets/otapp-logo.png" alt="Otapp logo">
+
 ## Otapp
 
 **One hub for every ticket.**
