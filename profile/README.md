@@ -10,7 +10,7 @@ We build platforms that let people find, book and pay with confidence, wherever 
 
 - 🌍 **Website:** [otapp.co.tz](https://otapp.co.tz)
 - 🤝 **Partners and developers:** operators, organisers and platforms can work with us
-  to reach more people. Get in touch at [development@otapp.net](mailto:development@otapp.net)
+  to reach more people. Get in touch at [integrations@otapp.net](mailto:integrations@otapp.net)
 - 🔐 **Security:** see our [security policy](https://github.com/Otapp-Agency/.github/blob/main/SECURITY.md)
 
 *Safe, secure, reliable ticketing. Your ticket to live entertainment and safe travel.*
