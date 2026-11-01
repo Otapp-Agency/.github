@@ -1,8 +1,19 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/otapp-logo-dark.png">
+  <img align="right" width="180" src="assets/otapp-logo-light.png" alt="Otapp">
+</picture>
 
-**Otapp Agency** is our organization for building and shipping software.
+### One hub for every ticket.
 
-- 🙋‍♀️ **About** — We work on apps and tools under the Otapp umbrella. Our repos are private.
-- 🧑‍💻 **Development contact** — Issue-related contact: [development@otapp.net](mailto:development@otapp.net).
+Otapp is an online ticketing hub that connects people to the journeys and experiences
+that matter, and gives the businesses behind them the technology to reach, sell to
+and serve their customers.
 
-Thanks for stopping by.
+We build platforms that let people find, book and pay with confidence, wherever they are.
+
+- 🌍 **Website:** [otapp.co.tz](https://otapp.co.tz)
+- 🤝 **Partners and developers:** operators, organisers and platforms can work with us
+  to reach more people. Get in touch at [integrations@otapp.net](mailto:integrations@otapp.net)
+- 🔐 **Security:** see our [security policy](https://github.com/Otapp-Agency/.github/blob/main/SECURITY.md)
+
+*Safe, secure, reliable ticketing. Your ticket to live entertainment and safe travel.*
