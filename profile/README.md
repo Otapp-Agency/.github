@@ -1,8 +1,6 @@
 <img align="right" width="140" src="assets/otapp-logo.png" alt="Otapp logo">
 
-## Otapp
-
-**One hub for every ticket.**
+### One hub for every ticket.
 
 Otapp is an online ticketing hub that connects people to the journeys and experiences
 that matter, and gives the businesses behind them the technology to reach, sell to
