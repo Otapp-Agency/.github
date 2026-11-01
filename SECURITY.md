@@ -5,7 +5,7 @@ welcome reports from security researchers.
 
 ## Reporting a vulnerability
 
-Email **[development@otapp.net](mailto:development@otapp.net)** with the subject line
+Email **[security@otapp.net](mailto:security@otapp.net)** with the subject line
 `SECURITY: <short summary>`. Please include:
 
 - the affected product, URL, app version or repository;
