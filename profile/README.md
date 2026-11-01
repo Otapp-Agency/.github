@@ -1,4 +1,7 @@
-<img align="right" width="140" src="assets/otapp-logo.png" alt="Otapp logo">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/otapp-logo-dark.png">
+  <img align="right" width="180" src="assets/otapp-logo-light.png" alt="Otapp">
+</picture>
 
 ### One hub for every ticket.
 
